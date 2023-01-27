@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon , an <a href="https://linkedin.com/in/">IT Professional</a>☺</h1
+<h1>Hi, I'm Brandon , an <a href="https://linkedin.com/in/brandon-haughton-9a908325a">IT Professional</a>☺</h1.   
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -11,3 +11,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https:linkedin.com/in/brandon-haughton-9a908325a">linkedin.svg"
